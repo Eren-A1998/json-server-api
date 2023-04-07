@@ -1,0 +1,62 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "burger",
+      "price": "10",
+      "amount": "0",
+      "inCart": false
+    },
+    {
+      "name": "user7",
+      "amount": "45",
+      "inCart": true,
+      "price": "23",
+      "id": 3
+    },
+    {
+      "name": "user3",
+      "amount": "0",
+      "inCart": true,
+      "price": "9",
+      "id": 4
+    },
+    {
+      "name": "user9",
+      "amount": "8",
+      "inCart": true,
+      "price": "7",
+      "id": 5
+    },
+    {
+      "name": "user6",
+      "amount": "4",
+      "inCart": true,
+      "price": "3",
+      "id": 6
+    },
+    {
+      "name": "iu",
+      "amount": "76",
+      "inCart": false,
+      "price": "20",
+      "id": 7
+    }
+  ],
+  "users": [
+    {
+      "id": "",
+      "userName": ""
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
